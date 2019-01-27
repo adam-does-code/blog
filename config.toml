@@ -1,5 +1,5 @@
 baseURL = "http://blog.dabuadas.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dema's Blog!"
 
 theme = "m10c"
