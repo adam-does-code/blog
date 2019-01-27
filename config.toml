@@ -1,5 +1,21 @@
 baseURL = "https://dabuadas.netlify.com"
 languageCode = "en-us"
 title = "Dema's Blog!"
-
 theme = "m10c"
+
+[params]
+  author = "Dema Abu Adas"
+  description = "Ramblings about software and hobbies!"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/de-ma"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/human_dema"
+
+  [params.style]
+    darkestColor = "#437f99"
+    darkColor = "#212121"
+    primaryColor = "#d7e3e8"
+    lightColor = "#c9c9c9"
+    lightestColor = "#ffffff"
