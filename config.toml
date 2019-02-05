@@ -15,7 +15,7 @@ theme = "m10c"
 
   [params.style]
     darkestColor = "#437f99"
-    darkColor = "#212121"
+    darkColor = "#565656"
     primaryColor = "#d7e3e8"
     lightColor = "#c9c9c9"
     lightestColor = "#ffffff"

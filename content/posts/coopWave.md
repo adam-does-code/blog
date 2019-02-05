@@ -1,6 +1,6 @@
 +++
 title =  "Co-op @ Wave"
-tags = ["coop"]
+tags = ["coop", "internship"]
 date = "2019-01-10"
 +++
 
@@ -52,4 +52,3 @@ Overall I felt like I learned a lot of new skills and technologies that are tran
 
 At Wave I had the oppertunity to be apart of the mentorship program twice. The first time I learned about IT and networking, it was great to learn about something different from what I do in my day to day life. The second mentorship I did was product design, I was super interested in that and got the oppertunity to create a product from scratch and be able to do research questions as well was interview people with prototypes that I designed. It was a great experience and diffenetly changed the way I look at technology right now!
 
-### Acknowledgment
