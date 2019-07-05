@@ -1,21 +1,44 @@
 baseURL = "https://dabuadas.netlify.com"
 languageCode = "en-us"
 title = "Dema's Blog!"
-theme = "m10c"
+theme = "hugo-nes-classic"
 
-[params]
-  author = "Dema Abu Adas"
-  description = "Ramblings about software and hobbies!"
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/de-ma"
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/human_dema"
+[menu]
 
-  [params.style]
-    darkestColor = "#437f99"
-    darkColor = "#565656"
-    primaryColor = "#d7e3e8"
-    lightColor = "#c9c9c9"
-    lightestColor = "#ffffff"
+  [[menu.main]]
+    identifier = "back"
+    name = "Back"
+    url = "https://dabuadas.me"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+disableInlineCSS = true
