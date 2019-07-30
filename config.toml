@@ -1,7 +1,7 @@
 baseURL = "https://dabuadas.netlify.com"
 languageCode = "en-us"
 title = "Dema's Blog!"
-theme = "hugo-nes-classic"
+theme = "hugo-nes-classic-dema"
 
 [menu]
 

@@ -1,3 +1,3 @@
-[submodule "themes/hugo-nes-classic"]
-	path = themes/hugo-nes-classic
-	url = https://github.com/rjayasinghe/hugo-nes-classic
+[submodule "themes/hugo-nes-classic-dema"]
+	path = themes/hugo-nes-classic-dema
+	url = https://github.com/De-ma/hugo-nes-classic
