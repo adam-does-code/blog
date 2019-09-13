@@ -16,7 +16,7 @@ I was located in the Markham software lab which is the largest software developm
 
 I was apart of the Extreme Blue program, which is an internship program that consists of teams of 4 (3 technical interns and 1 business intern) that work with engineers, business managers to develop a proof of concept for an idea as well as a business case to integrate it into IBM’s production line. The Extreme blue program is ran worldwide and we had a chance to meet the other North American teams that were based in North Carolina, San Diego, and Armonk at our Final Expo in NYC!
 
-### My learning goals 
+### My learning goals!
 
 The goals I had were:
 
@@ -29,7 +29,7 @@ Starting the summer, all the interns went up to Ottawa for orientation, and got 
 
 After a few weeks our team had come up with the name `WASup` which stands for the WebSphere Application Server upgrade. We were working on building an application modernization tool to help clients move from traditional WebSphere to WebSphere Liberty. The cool part of the entire summer was we were in full control of how our application worked, and the tools we were using (minus Java of course!). While working hard on the technical part, we were actively working on our first pitch! Apart of the Extreme Blue program is to give 4 minute presentations each month to sets of executives. This was all to help prepare us for the final expo that was happening in NYC! 
 
-During my internship at IBM, we had the opportunity to attend a presentation workshops that taught us about executive presence, and professionalism when presenting to people. It taught me a lot about how audiences listen and read presentations and little things you can change to help overcome the presentation anxiety. It was a great experience and one that will stay with me throughout my career.
+During my internship at IBM, we had the opportunity to attend presentation workshops that taught us about executive presence, and professionalism when presenting to people. It taught me a lot about how audiences listen and read presentations and little things you can change to help overcome the presentation anxiety. It was a great experience and one that will stay with me throughout my career.
 
 Looking back at my goals,
 
@@ -40,4 +40,14 @@ Using Eclipse as well as getting familiar with maven and such tools was also ver
 
 3. As someone who hasn't taken any commerce course besides Intro to Marketing in first year, working alongside with Dilek (our business intern) was amazing! Dilek constantly explained business terms, how she concluded to numbers of revenue, RIO, NPV, while still challenging us by asking US about the business side of our tool. 
 
+4. With the Red Hat aquisition lots changed with the position of the WebSphere products and how they were offered. As a team, Dilek often sent us lots of resources to understand what this aquistion meant as well as challenge us with questions to help prep us for our NYC pitch and demo. Talking to other extreme blue teams also helped understand how each product fits at IBM and how they compliment each other (also learning the difference between cross-selling vs up-selling)! 
+
 ### Acknowledgements! 
+
+Dilek, Patrick, Ryan: Spending 12 weeks with only 3 team members got a little hectic but having such a different indivudal dynamic helped us shape our team harmony in different ways. It was great to have team members that were open to constructive feedback and were always ready to help in the hardest tasks. 
+
+Our mentors! (Alasdair, YK, Cindy, Thomas): Having mentors that constantly helped us in times where we were most frustrated and confused was great! It was amazing how we would be stuck on a specific task for a few hours and Alasdair would instantly be able to figure it out, or point us to other IBMers who had such knowledge on a specific technology.
+
+Our manager (Sasa): Sasa spent so much time helping us with our presentation skills, and pitch. He even gave us our little saying at the end of the presentation where we would say "WAS up with your application!" that made lots of dragons and judges laugh. 
+
+Our program manager (Jan): Jan was a great resource to understand how the extreme blue program went, planning such fun orientation tasks as well as making us all one big family. 
