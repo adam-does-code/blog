@@ -16,7 +16,9 @@ I was located in the Markham software lab which is the largest software developm
 
 I was apart of the Extreme Blue program, which is an internship program that consists of teams of 4 (3 technical interns and 1 business intern) that work with engineers, business managers to develop a proof of concept for an idea as well as a business case to integrate it into IBM’s production line. The Extreme blue program is ran worldwide and we had a chance to meet the other North American teams that were based in North Carolina, San Diego, and Armonk at our Final Expo in NYC!
 
-My learning goals The goals I had were:
+### My learning goals 
+
+The goals I had were:
 
 1. Get more comfortable with Java. 
 2. Improve public speaking skills.
