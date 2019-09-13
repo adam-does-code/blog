@@ -12,9 +12,9 @@ IBM sells mostly software, middle-ware, and computer hardware, but has been sell
 
 I was located in the Markham software lab which is the largest software development lab in Canada and IBM’s third largest software lab. The lab has 2,500 employees and teams are working on products such as DB2, and WebSphere Application Server.
 
-I was apart of the Extreme Blue program, which is an internship program that consists of teams of 4 (3 technical interns and 1 business intern) that work with engineers, business managers to develop a proof of concept for an idea as well as a business case to integrate it into IBM’s production line. The Extreme blue program is ran worldwide and we had a chance to meet the other North American teams that were based in North Carolina, San Diego, and Armonk at our Final Expo in NYC!
-
 ### My experience!
+
+I was apart of the Extreme Blue program, which is an internship program that consists of teams of 4 (3 technical interns and 1 business intern) that work with engineers, business managers to develop a proof of concept for an idea as well as a business case to integrate it into IBM’s production line. The Extreme blue program is ran worldwide and we had a chance to meet the other North American teams that were based in North Carolina, San Diego, and Armonk at our Final Expo in NYC!
 
 My learning goals The goals I had were:
 
