@@ -7,12 +7,12 @@ theme = "hugo-nes-classic-dema"
 
   [[menu.main]]
     identifier = "back"
-    name = "Back"
-    url = "https://blog.dabuadas.dev"
+    name = "Main Site"
+    url = "https://dabuadas.dev"
     weight = 10
   [[menu.main]]
     identifier = "home"
-    name = "Blog"
+    name = "Blog Home"
     url = "https://blog.dabuadas.dev"
     weight = 10
 [taxonomies]
