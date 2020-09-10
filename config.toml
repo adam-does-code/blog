@@ -1,6 +1,6 @@
-baseURL = "https://blog.dabuadas.dev"
+baseURL = "https://blog.ad-am.dev"
 languageCode = "en-us"
-title = "Dema's Blog!"
+title = "Adam's Blog!"
 theme = "hugo-nes-classic-dema"
 
 [menu]
@@ -8,12 +8,12 @@ theme = "hugo-nes-classic-dema"
   [[menu.main]]
     identifier = "back"
     name = "Main Site"
-    url = "https://dabuadas.dev"
+    url = "https://ad-am.dev"
     weight = 10
   [[menu.main]]
     identifier = "home"
     name = "Blog Home"
-    url = "https://blog.dabuadas.dev"
+    url = "https://blog.ad-am.dev"
     weight = 10
 [taxonomies]
 category = "categories"
