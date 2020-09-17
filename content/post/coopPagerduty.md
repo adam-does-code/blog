@@ -61,6 +61,8 @@ We didn't have as much textual data on the PagerDuty side, and a lot of that dat
 
 Overall this project had a lot of data and to be able to get one specific clean up sight to see the correlation directly was super hard. It taught me a lot about research in the real world and how hard it can be. It taught me that things can fail and it doesn't mean you're a failure.
 
+### Other things I did!
+
 Alongside all the data science that happened, I learned and got to experience a handful of other things at the org. First, all the interns would intensely play foosball and my skills increased exponentially. Pagerduty also had hackdays (that were later turned into a hack week) and for my first hack day I changed a few things in the iOS app that we have. I got to get that small feature shipped and it was super exciting to contribute to a team I wasn't apart of. 
 
 PagerDuty also runs Failure fridays, where on a nice friday afternoon we try to change things or see how something would fail. This shows us what procedures we have in place for when things fail, because things to do fail. I found the entire incident response stuff super interesting and I got to scribe and help out for one of the failure fridays. 
