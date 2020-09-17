@@ -71,27 +71,17 @@ I also got to shadow support and sales calls, which was _super interesting_. Thi
 
 So, my goals.. 
 
+1. I implemented a notebook system along with a hype doc, where i'd take the notebook with me to all my meetings, and write notes. I also had a dedicated research/notes section where I took minutes from all the meetings I had with people about my project and documented them there. This helped me at the end when i was like "oh why did i do this?", i just went back and looked at some notes and i was like "oh because x didn't work and we needed y".
+
+1. After attending !!Con West, where <insert name> gave a cool talk about indie programming languages, I was so inspired to talk about the coolest one ever. Inform 7, its a language that can be used for _interactive_ story telling. Since I signed up for April lightning talks it was only right to make my entire talk Animal Crossing related (because that's all i played while I was physical distancing). Although I had to give the talk remotely it was a good learning experience and I had a lot of fun writing and presenting this talk. 
+
+1. I started reading blog posts about pythonic ways to write code, and did lots of refactoring when I hit a succeess with the solutions I implemented. I could've done way more by asking other team members to review my Python code but as WFH continued, it just felt like more isolation with my project, and I never got to do that.
+
+1. Understand data science concepts in a more breadth (& depth for some): I got to do a "data science concept of the week-or-2 weeks?" and pick things that i found intersting, which was cool because I read a lot of papers and theory and then I would spin up little notebooks and play around with what I just learned. I learned about decision trees, text generation, and lots of SQL! 
 
 ### Hack Week!!
 
 By the time hack week came along in late March, the entire company was already WFH. It did feel like a good start to adjusting by being able to just work on a hack for an entire week with people you dont usually get to work with. I ended up teaming with Dinna and Steve who are on the mobile team, and we tried to port our iPad app into a Mac app using project Catalyst. 
 
 
-### Acknowledgements + Thanks
-
-Wendy: 
-
-Irena & Shaheen: 
-
-DS Core Team:
-
-Dileshni: 
-
-Lyon: 
-
-Leeor:
-
-SI Team: 
-
-Leena: 
 
