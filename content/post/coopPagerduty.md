@@ -40,6 +40,7 @@ We first started the Git Risk Prediction by using fuzzy matching to sync up all 
 After we confirmed with a bunch of teams about our Github to PagerDuty mappings, we started to get all the data. The data we had on Github was a lot, like every commit, every PR, every code review comment. It was _awesome_. We decided to focus on one flow that we've seen during major incidents. The flow that an incident is triggered, someone realizes that a recent code deploy caused this, they end up reverting the PR to figure out what caused this, and then the incident is closed. 
 
 This gives us four different time series to work with:
+
 - incident triggered 
 - incident resolved
 - pull request opened
@@ -48,6 +49,7 @@ This gives us four different time series to work with:
 Reverts usually happen very quickly and when something bad happens, and the time between these opening and merging a revert is very short. We ran a serial correlation against all these time series for all the repo mappings we collected. 
 
 Next we decided to play around with textual data. A github PR has a lot of text, such as:
+
 - branch name
 - pull request name
 - commit messages
