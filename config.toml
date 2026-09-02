@@ -1,4 +1,4 @@
-baseURL = "https://blog.ad-am.dev"
+baseURL = "https://blog.craftedbyadam.dev"
 languageCode = "en-us"
 title = "Adam's Blog!"
 theme = "hugo-nes-classic-dema"
@@ -8,12 +8,12 @@ theme = "hugo-nes-classic-dema"
   [[menu.main]]
     identifier = "back"
     name = "Main Site"
-    url = "https://ad-am.dev"
+    url = "https://craftedbyadam.dev"
     weight = 10
   [[menu.main]]
     identifier = "home"
     name = "Blog Home"
-    url = "https://blog.ad-am.dev"
+    url = "https://blog.craftedbyadam.dev"
     weight = 10
 [taxonomies]
 category = "categories"
