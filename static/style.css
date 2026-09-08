@@ -1,0 +1,6 @@
+/* Nord color scheme override for hugo-theme-terminal */
+:root {
+  --background: #2e3440;
+  --foreground: #e5e9f0;
+  --accent: #88c0d0;
+}

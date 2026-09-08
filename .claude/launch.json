@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hugo-server",
+      "runtimeExecutable": "/Users/dema/.local/bin/hugo",
+      "runtimeArgs": ["server", "-D", "--baseURL", "http://localhost/"],
+      "port": 1313
+    }
+  ]
+}

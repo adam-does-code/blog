@@ -1,24 +1,29 @@
 baseURL = "https://blog.craftedbyadam.dev"
 languageCode = "en-us"
 title = "Adam's Blog!"
-theme = "hugo-nes-classic-dema"
+theme = "terminal"
+pagination.pagerSize = 5
 
-[menu]
-
-  [[menu.main]]
-    identifier = "back"
-    name = "Main Site"
-    url = "https://craftedbyadam.dev"
-    weight = 10
-  [[menu.main]]
-    identifier = "home"
-    name = "Blog Home"
-    url = "https://blog.craftedbyadam.dev"
-    weight = 10
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = "post"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  showLastUpdated = false
+  readingTime = true
 
 [privacy]
 
@@ -45,4 +50,40 @@ privacyEnhanced = true
     disableInlineCSS = true
 
   [services.twitter]
-disableInlineCSS = true
+    disableInlineCSS = true
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Adam's Blog!"
+
+    [languages.en.params]
+      subtitle = "thoughts, projects & co-op reports"
+      owner = "Adam"
+      keywords = "blog, software, engineering"
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "adam@blog:~$"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "home"
+          name = "Blog Home"
+          url = "https://blog.craftedbyadam.dev"
+          weight = 10
+        [[languages.en.menu.main]]
+          identifier = "back"
+          name = "Main Site"
+          url = "https://craftedbyadam.dev"
+          weight = 20
