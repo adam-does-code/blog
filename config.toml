@@ -1,89 +1,44 @@
 baseURL = "https://blog.craftedbyadam.dev"
-languageCode = "en-us"
+locale = "en"
 title = "Adam's Blog!"
-theme = "terminal"
-pagination.pagerSize = 5
+theme = "hugo-texify3"
+enableRobotsTXT = true
+rssLimit = 10
+
+[pagination]
+  pagerSize = 5
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-[markup.highlight]
-  noClasses = false
+  tags = "tags"
+  categories = "categories"
 
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup.highlight]
+  noClasses = false
+
 [params]
-  contentTypeName = "post"
-  showMenuItems = 2
-  showLanguageSelector = false
-  fullWidthTheme = false
-  centerTheme = true
-  autoCover = true
-  showLastUpdated = false
-  readingTime = true
+  title = "Adam's Blog!"
+  author = "Adam"
+  description = "Thoughts, projects & co-op reports"
+  footnote = """
+  <a class=link href=https://craftedbyadam.dev target=_blank rel=noopener>Main Site</a> |
+  <a class=link href=https://github.com/adam-does-code target=_blank rel=noopener>GitHub</a> |
+  Powered by <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> |
+  Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+  """
+  customCSS = []
+  customJS = []
+  dateFormat = "2 January 2006"
+  emphasisWithDots = true
+  toc = true
+  rootFontSize = "105%"
+  math = true
+  enableDuckDuckGoSearchBox = false
+  numberedSubtitles = true
 
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
-
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Adam's Blog!"
-
-    [languages.en.params]
-      subtitle = "thoughts, projects & co-op reports"
-      owner = "Adam"
-      keywords = "blog, software, engineering"
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-
-      [languages.en.params.logo]
-        logoText = "adam@blog:~$"
-        logoHomeLink = "/"
-
-      [languages.en.menu]
-        [[languages.en.menu.main]]
-          identifier = "home"
-          name = "Blog Home"
-          url = "https://blog.craftedbyadam.dev"
-          weight = 10
-        [[languages.en.menu.main]]
-          identifier = "back"
-          name = "Main Site"
-          url = "https://craftedbyadam.dev"
-          weight = 20
+[[menus.main]]
+  name = "GitHub"
+  url = "https://github.com/adam-does-code"
+  weight = 10
